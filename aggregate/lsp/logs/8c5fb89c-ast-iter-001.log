@@ -1,0 +1,7 @@
+[2026-09-28T07:17:20Z] === AST ITERATION 1 START | repo=asimov-modules/asimov-chromium-module sha=8c5fb89c ===
+[2026-09-28T07:17:20Z] [iter=1] PHASE START: ast repo=asimov-modules/asimov-chromium-module sha=8c5fb89c
+[2026-09-28T07:17:20Z] [iter=1] Building AST aggregate chunks
+[2026-09-28T07:17:23Z] [iter=1] AST chunks built count=1 triples=33589
+[2026-09-28T07:17:23Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8c5fb89c23bd5a1e506e12aede51808b798b40c6/.complete
+[2026-09-28T07:17:23Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-09-28T07:17:23Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
